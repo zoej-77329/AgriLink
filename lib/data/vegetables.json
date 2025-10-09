@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Tomatoes",
+    "price": "Rs. 120/kg",
+    "location": "Lahore",
+    "image": "assets/images/tomatoes.jpg"
+  },
+  {
+    "name": "Potatoes",
+    "price": "Rs. 30/kg",
+    "location": "Karachi",
+    "image": "assets/images/potatoes.jpg"
+  },
+  {
+    "name": "Mangoes",
+    "price": "Rs. 150/kg",
+    "location": "Multan",
+    "image": "assets/images/mangoes.jpg"
+  },
+  {
+    "name": "Carrots",
+    "price": "Rs. 80/kg",
+    "location": "Islamabad",
+    "image": "assets/images/carrots.jpg"
+  },
+  {
+    "name": "Onions",
+    "price": "Rs. 60/kg",
+    "location": "Sialkot",
+    "image": "assets/images/onions.jpg"
+  },
+  {
+    "name": "Cucumbers",
+    "price": "Rs. 70/kg",
+    "location": "Gujranwala",
+    "image": "assets/images/cucumbers.jpg"
+  },
+  {
+    "name": "Apples",
+    "price": "Rs. 200/kg",
+    "location": "Murree",
+    "image": "assets/images/apples.jpg"
+  },
+  {
+    "name": "Bananas",
+    "price": "Rs. 150/dozen",
+    "location": "Hyderabad",
+    "image": "assets/images/bananas.jpg"
+  },
+  {
+    "name": "Cauliflower",
+    "price": "Rs. 90/kg",
+    "location": "Islamabad",
+    "image": "assets/images/cauliflower.jpg"
+  }
+]
