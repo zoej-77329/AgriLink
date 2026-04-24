@@ -20,11 +20,11 @@ class BottomNavBar extends StatelessWidget {
       backgroundColor: const Color(0xFFFFF7ED),
       type: BottomNavigationBarType.fixed,
       selectedLabelStyle: const TextStyle(
-        fontWeight: FontWeight.w700, // ✅ Bold for selected
+        fontWeight: FontWeight.w700, // Bold for selected
         fontSize: 14,
       ),
       unselectedLabelStyle: const TextStyle(
-        fontWeight: FontWeight.w600, // ✅ Slightly bold for unselected
+        fontWeight: FontWeight.w600, //  Slightly bold for unselected
         fontSize: 14,
       ),
       items: const [
