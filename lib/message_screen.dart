@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'chat_screen.dart'; // ✅ separate file for chat screen
+import 'chat_screen.dart'; // separate file for chat screen
 
 class MessageScreen extends StatelessWidget {
   const MessageScreen({super.key});
@@ -28,7 +28,7 @@ class MessageScreen extends StatelessWidget {
 
       body: Column(
         children: [
-          // 🔍 Search bar
+          // Search bar
           Padding(
             padding: const EdgeInsets.all(16.0),
             child: TextField(
@@ -46,7 +46,7 @@ class MessageScreen extends StatelessWidget {
             ),
           ),
 
-          // 💬 Chat list
+          // Chat list
           Expanded(
             child: ListView(
               padding: const EdgeInsets.symmetric(horizontal: 16),
