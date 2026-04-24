@@ -168,7 +168,7 @@ class _LoginScreenState extends State<LoginScreen> {
                 ),
                 const SizedBox(height: 18),
 
-                // 👤 Continue as Guest
+                // Continue as Guest
                 TextButton(
                   onPressed: () {
                     // TODO: Continue as guest
