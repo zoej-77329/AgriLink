@@ -36,7 +36,7 @@ class ProfileScreen extends StatelessWidget {
       backgroundColor: const Color(0xFFF8F7F0),
       body: SafeArea(
         child: SingleChildScrollView(
-          // 👈 Fixes overflow issue
+          // Fixes overflow issue
           padding: const EdgeInsets.symmetric(horizontal: 20.0),
           child: Column(
             children: [
@@ -248,7 +248,7 @@ class _EditProfileScreenState extends State<EditProfileScreen> {
       ),
       body: SafeArea(
         child: SingleChildScrollView(
-          // 👈 Added for overflow prevention
+          //  Added for overflow prevention
           padding: const EdgeInsets.all(20.0),
           child: Form(
             key: _formKey,
